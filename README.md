@@ -1,2 +1,2 @@
 # Stock-Market-Analysis
-A Stock Market Analysis App made HTML, CSS and JS
+A Stock Market Analysis App made using HTML, CSS and JS
